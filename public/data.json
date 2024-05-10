@@ -1,0 +1,60 @@
+[
+    {
+      "id": 1,
+      "service": "Basic IT support package",
+      "description": "ABC Company offers comprehensive IT solutions tailored for businesses seeking to optimize their technological infrastructure. This package includes cloud services, cybersecurity, 24/7 technical support, and system maintenance. Perfect for small to medium-sized enterprises looking to streamline their IT operations.",
+      "includes": null
+    },
+    {
+      "id": 2,
+      "service": "IT Consultation Services",
+      "description": "ABC Company offers specialized IT Consultation Services to enhance your technology strategy and infrastructure, ensuring alignment with your business objectives. Our experts provide tailored advice on system integration, data management, and cybersecurity to optimize your IT investments. Reach out to us for innovative, strategic IT solutions that drive your business forward.",
+      "includes": [
+        "System analysis and recommendations",
+        "Technology strategy planning",
+        "IT infrastructure review",
+        "Project management and implementation guidance",
+        "Compliance and Risk Management",
+        "Digital Transformation Consulting"
+      ]
+    },
+    {
+      "id": 3,
+      "service": "Custom Software Development",
+      "description": "ABC Company offers specialized IT Consultation Services to enhance your technology strategy and infrastructure, ensuring alignment with your business objectives. Our experts provide tailored advice on system integration, data management, and cybersecurity to optimize your IT investments. Reach out to us for innovative, strategic IT solutions that drive your business forward.",
+      "includes": [
+        "Tailored software solutions based on client requirements",
+        "Database design and intregration",
+        "Secure security",
+        "Ongoing support and maintenance",
+        "Scalability",
+        "User-Centric Design",
+        "Technology Integration"
+      ]
+    },
+    {
+      "id": 4,
+      "service": "Cyber Security Services",
+      "description": "ABC Company delivers expert Cyber Security Services to shield your business from digital threats. With cutting-edge solutions, including assessments, monitoring, and incident response, we tailor our support to your needs. Strengthen your cyber defenses and ensure data integrity by partnering with us. Contact us for a resilient cyber security strategy.",
+      "includes": null
+    },
+    {
+      "id": 5,
+      "service": "Cloud Service and Management",
+      "description": "ABC Company delivers expert Cloud Service and Management solutions, offering scalable, secure cloud infrastructure tailored to your business needs. From deployment and migration to continuous management, we optimize your IT operations for cost-efficiency and flexibility. Partner with us to harness the power of cloud technology and advance your business. Contact us to transform your IT strategy.",
+      "includes": null,
+      "image": "/assets/services/service_three.png"
+    },
+    {
+      "id": 6,
+      "service": "Website Development and Maintenance",
+      "description": "ABC Company offers tailored website development and maintenance services, ensuring custom, secure, and responsive sites with ongoing support for peak performance. Elevate your online presence with our expert solutions designed for business growth. Contact us to transform your digital platform.",
+      "includes": [
+        "Website design and development",
+        "Content management system",
+        "SEO",
+        "Regular support and maintenance"
+      ],
+      "image": "/assets/services/service_two.png"
+    }
+  ]
